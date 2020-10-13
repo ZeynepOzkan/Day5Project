@@ -8,6 +8,6 @@ public class Feature2 {
 
         System.out.println("Working on feature2 again");
 
-
+        System.out.println("Line 3 is created");
     }
 }
